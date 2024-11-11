@@ -1,0 +1,19 @@
+.A {
+
+display:grid;
+justify-content: center;
+
+}
+
+.B {
+
+justify-content: space-between;
+
+}
+
+p {
+
+justify-content: center;
+display: flex;
+
+}
